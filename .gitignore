@@ -1,4 +1,6 @@
 .DS_Store
+.idea/
+.gitconfig
 static
 db.sqlite3
 index
